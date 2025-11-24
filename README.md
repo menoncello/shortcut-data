@@ -7,17 +7,14 @@ This repository contains keyboard shortcuts data for the Shortcuts Learning App.
 ```
 apps/
 ├── neovim/
-│   ├── navigation/
-│   │   └── navigation.yaml
-│   ├── editing/
-│   │   └── editing.yaml
-│   └── search/
-│       └── search.yaml
+│   ├── navigation.yaml
+│   ├── editing.yaml
+│   ├── search.yaml
+│   └── metadata.json
 └── aerospace/
-    ├── window-management/
-    │   └── window-management.yaml
-    └── workspace/
-        └── workspace.yaml
+    ├── window-management.yaml
+    ├── workspace.yaml
+    └── metadata.json
 ```
 
 ## Data Format

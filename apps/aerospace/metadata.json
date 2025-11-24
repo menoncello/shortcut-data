@@ -4,18 +4,24 @@
   "version": "1.0.0",
   "icon": "aerospace.png",
   "website": "https://github.com/nikitabobko/AeroSpace",
+  "files": [
+    "window-management.yaml",
+    "workspace.yaml"
+  ],
   "categories": [
     {
       "name": "window-management",
       "display_name": "Window Management",
       "description": "Managing application windows",
-      "difficulty": "intermediate"
+      "difficulty": "intermediate",
+      "file": "window-management.yaml"
     },
     {
       "name": "workspace",
       "display_name": "Workspace",
       "description": "Managing virtual workspaces",
-      "difficulty": "intermediate"
+      "difficulty": "intermediate",
+      "file": "workspace.yaml"
     }
   ]
 }

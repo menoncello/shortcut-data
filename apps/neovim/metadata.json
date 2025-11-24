@@ -4,24 +4,32 @@
   "version": "1.0.0",
   "icon": "neovim.png",
   "website": "https://neovim.io/",
+  "files": [
+    "navigation.yaml",
+    "editing.yaml",
+    "search.yaml"
+  ],
   "categories": [
     {
       "name": "navigation",
       "display_name": "Navigation",
       "description": "Moving around the editor",
-      "difficulty": "beginner"
+      "difficulty": "beginner",
+      "file": "navigation.yaml"
     },
     {
       "name": "editing",
       "display_name": "Editing",
       "description": "Text editing operations",
-      "difficulty": "beginner"
+      "difficulty": "beginner",
+      "file": "editing.yaml"
     },
     {
       "name": "search",
       "display_name": "Search",
       "description": "Search and replace operations",
-      "difficulty": "intermediate"
+      "difficulty": "intermediate",
+      "file": "search.yaml"
     }
   ]
 }
