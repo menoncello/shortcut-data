@@ -1,0 +1,27 @@
+{
+  "name": "Neovim",
+  "description": "Vim-favored text editor",
+  "version": "1.0.0",
+  "icon": "neovim.png",
+  "website": "https://neovim.io/",
+  "categories": [
+    {
+      "name": "navigation",
+      "display_name": "Navigation",
+      "description": "Moving around the editor",
+      "difficulty": "beginner"
+    },
+    {
+      "name": "editing",
+      "display_name": "Editing",
+      "description": "Text editing operations",
+      "difficulty": "beginner"
+    },
+    {
+      "name": "search",
+      "display_name": "Search",
+      "description": "Search and replace operations",
+      "difficulty": "intermediate"
+    }
+  ]
+}

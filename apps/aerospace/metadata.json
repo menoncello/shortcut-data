@@ -1,0 +1,21 @@
+{
+  "name": "Aerospace",
+  "description": "AeroSpace is an i3-like tiling window manager for macOS",
+  "version": "1.0.0",
+  "icon": "aerospace.png",
+  "website": "https://github.com/nikitabobko/AeroSpace",
+  "categories": [
+    {
+      "name": "window-management",
+      "display_name": "Window Management",
+      "description": "Managing application windows",
+      "difficulty": "intermediate"
+    },
+    {
+      "name": "workspace",
+      "display_name": "Workspace",
+      "description": "Managing virtual workspaces",
+      "difficulty": "intermediate"
+    }
+  ]
+}
